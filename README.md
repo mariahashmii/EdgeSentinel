@@ -182,7 +182,7 @@ The Streamlit dashboard displays:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/EdgeSentinel.git
+git clone https://github.com/mariahashmii/EdgeSentinel.git
 cd EdgeSentinel
 ```
 
